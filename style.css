@@ -1,0 +1,28 @@
+
+/* Định dạng cơ bản */
+
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; color: #333; }
+
+header { background: #2c3e50; color: white; padding: 1rem; text-align: center; }
+
+nav { background: #34495e; padding: 10px; text-align: center; }
+
+nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+
+nav a:hover { color: #33498db; }
+banner { background: #ecf0f1; 
+padding: 40px; text-align: center; border-bottom: 5px solid #3498db; }
+
+slogan { font-style: italic; color: #e67e22; font-size: 1.5rem; margin: 10px 0; }
+
+container { padding: 20px; max-width: 1000px; margin: auto; min-height: 400px; }
+
+footer { background: #2c3e50; color: white; text-align: center; padding: 15px; margin-top: 20px; }
+
+/* CSS cho bảng và danh sách */
+
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+
+th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+
+th { background-color: #3498db; color: white; }
